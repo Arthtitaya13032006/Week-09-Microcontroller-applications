@@ -1,1 +1,0 @@
-docker run --rm -v "${PWD}:/workspace" -w /workspace fgrehm/graphviz dot -Tsvg image-src/[ชื่อไฟล์.dot] -o images/[ชื่อไฟล์.svg]
